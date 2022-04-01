@@ -1,0 +1,33 @@
+#camera{
+width: 500px;
+height: 400px;
+border:1px solid dimgrey;
+
+}
+
+img{
+width: 300px;
+height: 200px;
+box-shadow:0 6px 8px 0 rgba(2,2,2,0.2);
+border-radius: 30%;
+
+}
+
+img:hover{
+
+border-radius: 140px;
+
+}
+
+#footer{
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+}
+
+#column{
+align-content:space-between;
+
+
+}
